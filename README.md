@@ -26,3 +26,5 @@ $ npm i
 # Compile and run the app
 $ npm run compile && npm start
 ```
+## Reference
+https://www.sitepoint.com/music-streaming-app-electron-react-es6
