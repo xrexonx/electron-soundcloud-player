@@ -4,8 +4,6 @@ import Track from './Track';
 
 export default class ProgressSoundPlayer extends Component {
   render() {
-    console.log(resolveUrl);
-    console.log(clientId);
     const {resolveUrl, clientId} = this.props;
     return (
       <SoundPlayerContainer resolveUrl={resolveUrl} clientId={clientId}>
