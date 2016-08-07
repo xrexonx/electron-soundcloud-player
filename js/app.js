@@ -28038,8 +28038,6 @@ var ProgressSoundPlayer = function (_Component) {
   _createClass(ProgressSoundPlayer, [{
     key: 'render',
     value: function render() {
-      console.log(resolveUrl);
-      console.log(clientId);
       var _props = this.props;
       var resolveUrl = _props.resolveUrl;
       var clientId = _props.clientId;
