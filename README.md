@@ -1,6 +1,6 @@
 # electron-soundcloud-player
 
-TODO ~ Create SoundCloud Account and create app for appId for this application.
+TODO ~ Create SoundCloud Account and create app for the appId in this application.
 
 <!-- **Clone and run for a quick way to see an Electron in action.**
 
