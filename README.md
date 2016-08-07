@@ -20,8 +20,8 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 # Clone this repository
 $ git clone https://github.com/xrexonx/electron-soundcloud-player.git && cd electron-soundcloud-player
 
-# Install dependencies and run the app
-$ npm i # Take some coffee...
+# Install dependencies and maybe take some coffee if you like.
+$ npm i
 
 # Compile and run the app
 $ npm run compile && npm start
