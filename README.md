@@ -10,7 +10,7 @@ A basic Electron application needs just these files:
 
 You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
 
-## To Use
+## Usage
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -19,5 +19,5 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 $ git clone https://github.com/xrexonx/electron-soundcloud-player.git && cd electron-soundcloud-player
 
 # Install dependencies and run the app
-$ npm i && nnpm start
+$ npm i && npm start
 ```
