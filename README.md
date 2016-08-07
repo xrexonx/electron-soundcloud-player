@@ -1,6 +1,6 @@
-# electron-quick-start
+# electron-soundcloud-player
 
-**Clone and run for a quick way to see an Electron in action.**
+<!-- **Clone and run for a quick way to see an Electron in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
 
@@ -29,4 +29,4 @@ npm install && npm start
 
 Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
 
-#### License [CC0 (Public Domain)](LICENSE.md)
+#### License [CC0 (Public Domain)](LICENSE.md) -->
