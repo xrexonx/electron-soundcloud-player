@@ -1,12 +1,6 @@
 # electron-soundcloud-player
 
-TODO ~ Create SoundCloud Account and create app for the appId in this application.
-
-<!-- **Clone and run for a quick way to see an Electron in action.**
-
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
-
-**Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
+**Clone and run for a quick way to see this Electron Sound Cloud App player in action.**
 
 A basic Electron application needs just these files:
 
@@ -22,13 +16,8 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
-# Go into the repository
-cd electron-quick-start
+$ git clone https://github.com/xrexonx/electron-soundcloud-player.git && cd electron-soundcloud-player
+
 # Install dependencies and run the app
-npm install && npm start
+$ npm i && nnpm start
 ```
-
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
-
-#### License [CC0 (Public Domain)](LICENSE.md) -->
