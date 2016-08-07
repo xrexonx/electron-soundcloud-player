@@ -4,7 +4,7 @@ import ProgressSoundPlayer from './components/ProgressSoundPlayer';
 import SC from 'node-soundcloud';
 import Loading from 'react-loading';
 
-var client_id = 'YOUR SOUNDCLOUD APP ID';
+var client_id = '8f5dcc28a1e5cac528dfa3ae2861cd3b';
 
 SC.init({
   id: client_id
@@ -35,7 +35,7 @@ class Main extends Component {
     this.setState({
       isLoading: true
     });
-console.log(this.state.query);
+
     SC.get('/tracks', {
       q: this.state.query,
       embeddable_by: 'all'

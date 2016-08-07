@@ -27885,7 +27885,7 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var client_id = 'YOUR SOUNDCLOUD APP ID';
+var client_id = '8f5dcc28a1e5cac528dfa3ae2861cd3b';
 
 _nodeSoundcloud2.default.init({
   id: client_id
@@ -28038,6 +28038,8 @@ var ProgressSoundPlayer = function (_Component) {
   _createClass(ProgressSoundPlayer, [{
     key: 'render',
     value: function render() {
+      console.log(resolveUrl);
+      console.log(clientId);
       var _props = this.props;
       var resolveUrl = _props.resolveUrl;
       var clientId = _props.clientId;
