@@ -1,5 +1,7 @@
 # electron-soundcloud-player
 
+A simple music player built in elecron and reactJS using SoundCloud.
+
 **Clone and run for a quick way to see this Electron Sound Cloud App player in action.**
 
 A basic Electron application needs just these files:
